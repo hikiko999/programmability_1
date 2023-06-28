@@ -1,0 +1,13 @@
+https://blog.wimwauters.com/networkprogrammability/2020-01-08-pythonvirtualenvironment/
+
+<cmd>
+
+py -m pip install virtual env
+
+py -m venv venv (create venv folder (venv))
+
+venv\Scripts\activate.bat
+
+https://blog.wimwauters.com/networkprogrammability/2020-01-14-parse_yaml_python/
+
+deactivate
